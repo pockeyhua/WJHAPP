@@ -1,0 +1,374 @@
+header{
+	width: 100%;
+	height: .48em;
+	background-color: #FDD751;
+	padding: 0 .12rem;
+	position: fixed;
+	z-index: 999;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+#head-top{
+	width: 100%;
+	height: .48rem;
+	padding: .12rem 0;
+	float: left;
+}
+#head-top a{
+	width: .23rem;
+	height: .235rem;
+	display: block;
+	margin: 0 auto;
+	float: left;
+}
+#head-top a:nth-child(2){
+	float: right;
+	width: .23rem;
+	height: .235rem;
+	display: block;
+	margin: 0 auto;
+}
+#head-top a:nth-child(3){
+	float: right;
+	width: .23rem;
+	height: .235rem;
+	display: block;
+	margin: 0 auto;
+	margin-right: .1rem;
+}
+#head-top span{
+	font-size: .15rem;
+	float: left;
+	display: block;
+	color: white;
+	font-family: "微软雅黑";
+	line-height: .27rem;
+	margin-left: .31em;
+}
+#neirong{
+	background-color: #f3f3f3;
+	width: 100%;
+	height: 7.8rem;
+	margin-top: .48rem;
+	margin-bottom: .5rem;
+}
+.banner{
+	width: 3.605rem;
+	height: 1.805rem;
+	margin: 0 auto;
+	position: absolute;
+}
+.banner-img{
+	width: 3.605rem;
+	height: 1.805rem;
+	margin: 0 auto;
+}
+.xuanxiang{
+	width: 3.33rem;
+	height: 1.005rem;
+	margin: 0 auto;
+	position: absolute;
+	margin-top: 1.4rem;
+	margin-left: .14rem;
+
+}
+.fangkuai{
+	width: .79rem;
+	height: 1.005rem;
+	background-color: white;
+	overflow: hidden;
+	border-radius: 2%;
+	float: left;
+	margin-left: .04rem;
+
+}
+.fangkuai span:nth-child(1){
+	font-size: .08rem;
+	font-family: "微软雅黑";
+	color: #606060;
+	display: block;
+	text-align: center;
+	margin-top: .1rem;
+}
+.fangkuai span:nth-child(2){
+	font-size: .08rem;
+	font-family: "微软雅黑";
+	color: #606060;
+	display: block;
+	text-align: center;
+
+}
+.fangkuai img:nth-child(0){
+	width: .565rem;
+	height: .065rem;
+	margin-left: .08rem;
+	margin-top: .3rem;
+}
+.fangkuai img:nth-child(1){
+	width: .435rem;
+	height: .335rem;
+	margin-left: .15rem;
+	margin-top: .1rem;
+}
+#neirong .tu2{
+	width: .555rem;
+	height: .233rem;
+	margin-top: .15rem;
+	margin-left: .13rem;
+}
+#neirong .tu3{
+	width: .27rem;
+	height: .35rem;
+	margin-top: .1rem;
+	margin-left: .25rem;
+}
+#neirong .tu4{
+	width: .25rem;
+	height: .38rem;
+	margin-top: .1rem;
+	margin-left: .25rem;
+}
+
+.fangkuai a{
+	float: left;
+	margin-left: .035rem;
+	position: relative;
+
+}
+.xiaobiaoti{
+	width: 100%;
+	height: .26rem;
+    position: absolute;
+    margin-top: 2.6rem;
+}
+.xbt{
+	width: .9rem;
+	height: .2rem;
+	margin: 0 auto;
+	margin-top: .03rem;
+}
+.card1{
+	width: 3.1rem;
+	height: 2.075rem;
+	position: absolute;
+	margin-top: 3rem;
+	margin-left: .25rem; 
+	display: inline;
+}
+.chang{
+	width: 3.1rem;
+	height: .6rem;
+	background-color: white;
+	border-radius: .03rem;
+	margin-bottom: .2rem;
+	position: relative;
+}
+.chang .t1{
+	width: .8rem;
+	height: .35rem;
+	margin-top: .18rem;
+	margin-left: .1rem;
+	position: absolute;
+}
+.chang span{
+	font-family: "微软雅黑";
+	font-size: .12rem;
+	display: block;
+	color: #fdd751;
+	font-weight:100;
+	text-align: center;
+	margin-top: .05rem;
+	position: absolute;
+	margin-left:1.1rem;
+}
+.chang .zi1{
+	margin-left: 1.1rem;
+	margin-top: .2rem;
+	font-size: .08rem;
+    color: #7d7d7d;
+}
+.chang .zi2{
+	margin-left: 1.1rem;
+	margin-top: .37rem;
+	font-size: .08rem;
+    color: red;
+    font-weight: bold;
+}
+.chang .t2{
+	width: .35rem;
+	height: .11rem;
+	margin-top: .18rem;
+	margin-left: .1rem;
+	position: absolute;
+	margin-left: 1.9rem;
+	margin-top: .06rem;
+}
+.chang .t3{
+	width: .6rem;
+	height: .15rem;
+	margin-top: .18rem;
+	margin-left: .1rem;
+	position: absolute;
+	margin-left: 2rem;
+	margin-top: .37rem;
+}
+.xiaobiaoti2{
+	width: 100%;
+	height: .26rem;
+    position: absolute;
+    margin-top: 5.4rem;
+}
+#card2{
+	width: 3.28rem;
+	height: 1.93rem;
+    position: relative;
+	margin-top:5.8rem;
+	margin-left: .17rem;
+	display: block;
+	float: left;
+
+}
+.duan{
+	width: 1.99rem;
+	height: .93rem;
+}
+.d-right{
+	width: 1.29rem;
+	height: .94rem;
+	background-color: white;
+	display: block;
+	margin-top: -.93rem;
+	position: relative;
+	margin-left: 2rem;
+}
+.d-right img{
+	width: 1rem;
+	height: .36rem;
+	margin-left: .15rem;
+	margin-top: .08rem;
+	position: absolute;
+}
+.fk{
+	width: .69rem;
+	height: .01rem;
+	background-color: #fdd751;
+	margin-top: .5rem;
+	position: absolute;
+	margin-left: .27rem;
+}
+.d-right span:nth-child(3){
+	font-size: .12rem;
+	color: #8b8b8b;
+	display: block;
+	margin-top: .55rem;
+	position: absolute;
+	margin-left: .36rem;
+}
+.d-right span:nth-child(4){
+    font-size: .12rem;
+	color: #8b8b8b;
+	display: block;
+	margin-top: .72rem;
+	position: absolute;
+	margin-left: .16rem;
+	font-weight: 500;
+}
+.xia{
+	width: 3.28rem;
+	height: .89rem;
+	float: left;
+	position: absolute;
+}
+.d-right2{
+	width: 1rem;
+	height: .75rem;
+	background-color: white;
+	display: block;
+	position: relative;
+	float: left;
+	margin: .046rem;
+}
+.d-right2 img{
+    width: .8rem;
+    height: .31rem;
+	margin-top: .08rem;
+	position: absolute;
+	margin-left: .1rem;
+}
+.d-right2 span{
+	font-size: .12rem;
+	color: #8b8b8b;
+	display: block;
+	margin-top: .58rem;
+	position: absolute;
+	margin-left: .12rem;
+}
+.d-right2 span:nth-child(3){
+	font-size: .12rem;
+	color:#8b8b8b;
+	display: block;
+	margin-top: .45rem;
+	position: absolute;
+	margin-left: .25rem;
+}
+.fk2{
+	width: .5rem;
+	height: .01rem;
+	background-color: #DBAA00;
+	margin-top: .42rem;
+	position: absolute;
+	margin-left: .25rem;
+}
+#dibulan{
+	width: 3.605rem;
+	height: .465rem;
+	background-color: white;
+	display: block;
+	position: absolute;
+	margin-top: 7.7rem;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.di{
+	width: 3.605rem;
+	height: .5rem;
+	background-color: #FFCE42;
+	float: left;
+	display: block;
+	position: absolute;
+}
+.zhuye{
+	width: .3rem;
+	height: .205rem;
+	float: left;
+	margin-top: .12rem;
+   margin-left: .3rem;
+   margin-right: .2rem;
+	display: block;
+}
+.zhuye img{
+	width: .22rem;
+	height: .2rem;
+	margin-top: -.05rem;
+}
+.zhuye span{
+	font-size: .1rem;
+	display: block;
+	color: #8b8b8b;
+}
+.zhuye3 img{
+	width: .4rem;
+	height: .5rem;
+   float: left;
+   display: block;
+   margin-top: .01rem;
+}
+
+
+      
+
+
+
+
